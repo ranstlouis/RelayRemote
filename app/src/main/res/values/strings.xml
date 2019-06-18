@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Relay Remote</string>
+    <string name="relay">Relay</string>
+    <string name="go">GO</string>
+</resources>
